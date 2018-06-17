@@ -5,6 +5,5 @@ You can get a random user agent with this python module.
 ```
 >>> from random_ua import generate_ua
 >>> print(generate_ua())
-
 ```
-## Licence: MIT
+## Licence: BSD-3-Clause
